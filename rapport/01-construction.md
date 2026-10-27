@@ -19,4 +19,13 @@ On note α la classe de X, avec la règle α^2 = α + 1.
 | **α** | α | α+1 | 0 | 1 |
 | **α+1** | α+1 | α | 1 | 0 |
 
-(à compléter : table de multiplication)
+### Table de multiplication de F_4
+
+| × | 0 | 1 | α | α+1 |
+|---|---|---|---|---|
+| **0** | 0 | 0 | 0 | 0 |
+| **1** | 0 | 1 | α | α+1 |
+| **α** | 0 | α | α+1 | 1 |
+| **α+1** | 0 | α+1 | 1 | α |
+
+Chaque élément non nul a un inverse (α et α+1 sont inverses l'un de l'autre), donc F_4 est un corps.
